@@ -7,6 +7,8 @@ public class datatype{
         short y = 127;
         long t = 34;
 
+
+
         /* char n = "h" ; */
         boolean h =true;
         System.out.println(t);
