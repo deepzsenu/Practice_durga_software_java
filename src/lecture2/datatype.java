@@ -6,9 +6,6 @@ public class datatype{
         int x = 9; // integer type
         short y = 127;
         long t = 34;
-
-
-
         /* char n = "h" ; */
         boolean h =true;
         System.out.println(t);
