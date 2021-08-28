@@ -6,7 +6,5 @@ public class array2 {
         char[] s = {'a', 'e', 'i','o', 'u'};
         System.out.println(s[2]);
         System.out.println(x[1]);
-
-
     }
 }
