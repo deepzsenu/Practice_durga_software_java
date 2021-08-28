@@ -11,6 +11,7 @@ public class array1 {
         byte[] e = new byte[3];
         boolean[] f = new boolean[3];
         char[] g = new char[3];
+        String[] h = new String[3];
         System.out.println(a.getClass().getName());
         System.out.println(b.getClass().getName());
         System.out.println(c.getClass().getName());
@@ -18,5 +19,6 @@ public class array1 {
         System.out.println(e.getClass().getName());
         System.out.println(f.getClass().getName());
         System.out.println(g.getClass().getName());
+        System.out.println(h.getClass().getName());
      }
 }
