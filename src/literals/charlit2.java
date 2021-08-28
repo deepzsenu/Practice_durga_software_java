@@ -9,6 +9,8 @@ public class charlit2 {
         // but allowed range is 0-65535
         // we can assign octal, integer and hexadecimal values to char
         char eh = 0777;//
-        System.out.println(ch+" "+dh+" "+eh);
+        char fh = '\u0061';// hexa decimal value of 61 in decimal is 97 so output will be
+        // a
+        System.out.println(ch+" "+dh+" "+eh+" "+fh);
     }
 }
