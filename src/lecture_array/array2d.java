@@ -12,6 +12,4 @@ public class array2d {
         System.out.println(x[2].length);
 
     }
-
-
 }
