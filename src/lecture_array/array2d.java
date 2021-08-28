@@ -9,7 +9,7 @@ public class array2d {
         x[1] = new int[1];  // the lenght of third column by defautl is 1
         // the lenght of third column by default is 3
 
-        System.out.println(x[2].length);
+        System.out.println(x[1].length);
 
     }
 }
