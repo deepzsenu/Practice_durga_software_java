@@ -10,6 +10,8 @@ public class array2d {
         // the lenght of third column by default is 3
 
         System.out.println(x[1].length); // the changed length
+        System.out.println(x.length); // return base lenght
+
 
     }
 }
