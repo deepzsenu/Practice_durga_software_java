@@ -6,6 +6,7 @@ public class sum {
         sum(10,20,30);
         sum(10, 20, 30, 40);
         sum(40, 12,45, 12);
+        sum(new int[] {20, 30, 40 ,10});
     }
     public static void sum(int... x)
     {
